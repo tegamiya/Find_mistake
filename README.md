@@ -3,6 +3,9 @@
 ## 概要
 パネルの中から色の違うものを選び続けて、スコアが高いほうが勝ちのシンプルなゲーム
 
+## 公開ページ
+https://tegamiya.github.io/Find_mistake/
+
 ## 内容
 ### 色の違うものを選んでクリック
 <img src="https://user-images.githubusercontent.com/40752235/51881473-a295de80-23be-11e9-8694-8caafc9b3892.png">
